@@ -17,3 +17,5 @@ y <- rnorm(300)
 
 # crazy stuff
 >>>>>>> crazy-idea
+
+# add more stuff
